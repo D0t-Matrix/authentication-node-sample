@@ -1,0 +1,28 @@
+{
+  "name": "authentication-node-sample",
+  "version": "1.0.0",
+  "description": "Twitch API Authentication Example using Node, Express, and Passport.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-session": "^1.15.2",
+    "handlebars": "^4.0.6",
+    "passport": "^0.3.2",
+    "passport-oauth": "^1.0.0",
+    "request": "^2.81.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D0t-Matrix/authentication-node-sample.git"
+  },
+  "keywords": [],
+  "author": "Twitch Interactive, Inc.",
+  "license": "Apache-2.0"
+  "bugs": {
+    "url": "https://github.com/D0t-Matrix/authentication-node-sample/issues"
+  },
+  "homepage": "https://github.com/D0t-Matrix/authentication-node-sample#readme"
+}
