@@ -15,6 +15,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "scripts: {
+    "build": "npm run build"
+  },
   "author": "Twitch Interactive, Inc.",
   "license": "Apache-2.0"
 }
